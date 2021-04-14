@@ -5,8 +5,8 @@ Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Objec
  The official repo of the TMM paper Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection
 
 # Saliency maps
-链接：https://pan.baidu.com/s/1qboggl26MKXnFs0DHkSOZw 
-提取码：6131 
+链接：https://pan.baidu.com/s/1ovHjetJO0oQrMgjzk4olag 
+提取码：c8kx 
 
 
 # 代码运行
